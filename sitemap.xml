@@ -10,14 +10,14 @@
 <url> <loc>https://cruisermods.com/modifications/breather</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/modifications/catchcan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/modifications/fuelfilter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cruisermods.com/modifications/interior</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cruisermods.com/modifications/snorkel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/more/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cruisermods.com/more/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/technical/maintenanceschedule</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/technical/obd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cruisermods.com/technical/torque</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cruisermods.com/modifications/snorkel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cruisermods.com/modifications/interior</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cruisermods.com/more/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/tips/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cruisermods.com/tips/fueladditives</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cruisermods.com/tips/seatbelt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cruisermods.com/technical/torque</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cruisermods.com/tips/fueladditives</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

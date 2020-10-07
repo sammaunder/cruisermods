@@ -1,22 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.cruisermods.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/maintenance/fuelfilter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/maintenance/oilchange</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/maintenance/tankbreathers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/maintenance/wheelbearings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/modifications/airfilter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/modifications/breather</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/modifications/catchcan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/modifications/fuelfilter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/modifications/interior</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/modifications/snorkel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/more/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/more/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/reviews/models</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/technical/maintenanceschedule</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/technical/torque</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/tips/fueladditives</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.cruisermods.com/tips/seatbelt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.cruisermods.com/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/about/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/modifications/airfilter/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/modifications/catchcan/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/modifications/interior/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/modifications/breather/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/modifications/snorkel/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/modifications/fuelfilter/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/maintenance/wheelbearings/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/maintenance/oilchange/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/maintenance/fuelfilter/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/maintenance/tankbreathers/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/technical/maintenanceschedule/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/technical/torque/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/reviews/models/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/tips/seatbelt/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/tips/fueladditives/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/more/contact/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cruisermods.com/more/privacy/</loc>
+  <lastmod>2020-10-07T22:51:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
